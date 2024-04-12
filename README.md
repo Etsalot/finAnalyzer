@@ -1,5 +1,5 @@
 # Description for Lab Test
-
+# Student Name: Ettienne Swart
 This code takes transaction data as a List of transactions and analyses income against expenses to categorize the financial health for the company. 
 
 The five calculations to be done are as follows:
@@ -33,3 +33,6 @@ python3 FinancialHealthAnalyzer.py
 # Expected output
 
 This program should print the profit, profit margin, average transaction amount and financial health of the company to the console for the given transaction data and should then print the test results.
+
+
+
